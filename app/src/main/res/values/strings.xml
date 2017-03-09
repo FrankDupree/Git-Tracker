@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Git Tracker</string>
+    <string name="hint">Select Language</string>
+    <string name="hint2">Choose Location</string>
+    <string name="hint3">Search</string>
+    <string name="hint4">Share</string>
+</resources>
